@@ -4,3 +4,9 @@ index
 locations
 
 products
+
+recipes
+
+about
+
+jingle
