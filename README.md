@@ -9,12 +9,14 @@ Pages will consist of: index, locations, products, recipes, about
 
 ## Use Cases:
 
+## Features:
+
 ### index:
 The main welcome page for the site. 
 
 ### locations: Will list the location of the store and hours
 
-Copy:
+* Copy:
 Bakesale Betty
 Tuesday - Saturday
 11:00am - 2:00 pm
@@ -33,7 +35,7 @@ There currently isn't any information listed on this page. Will update based on 
 ### recipes:
 
 ### about
-Copy:
+* Copy:
 Bakesale Betty was created by Australian cook, Alison Barakat. Since Alison moved to the States in 2000, she has been baking delicious treats that are reminiscent of the ones she grew up eating.
 
 Alison's passion for food and regard for using the best ingredients make her unique cakes and sweets divine. Alison began selling her baked goods at the Danville Farmers' Market where she met her husband Michael Camp.
@@ -42,3 +44,4 @@ Together Alison and Michael opened their first retail bakery shop in North Oakla
 
 
 ### jingle
+Currently there is a single page dedicated to the the jingle. There are other useful applications for having music in the site. This could function as a media sound instead of a dedicated page. 
