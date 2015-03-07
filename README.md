@@ -1,22 +1,26 @@
 # bakesalesite_project
 
-## Project: A redesign of the Bakesale Betty website.
+## Project: 
+A redesign of the Bakesale Betty website.
 
-## Goal: To update the current Bakesale Betty site to something more current.
+## Goal: 
+To update the current Bakesale Betty site to something more current.
 
-## Requirements: 6 pages.
+## Requirements: 
+The redesign will consist of 5-6 pages.
 Pages will consist of: index, locations, products, recipes, about
 
 ## Use Cases:
 
 ## Features:
+Description of the page breakdown:
 
 ### index:
 The main welcome page for the site. 
 
 ### locations: Will list the location of the store and hours
 
-* Copy:
+* Sample Copy:
 Bakesale Betty
 Tuesday - Saturday
 11:00am - 2:00 pm
@@ -35,7 +39,8 @@ There currently isn't any information listed on this page. Will update based on 
 ### recipes:
 
 ### about
-* Copy:
+* Sample Copy:
+
 Bakesale Betty was created by Australian cook, Alison Barakat. Since Alison moved to the States in 2000, she has been baking delicious treats that are reminiscent of the ones she grew up eating.
 
 Alison's passion for food and regard for using the best ingredients make her unique cakes and sweets divine. Alison began selling her baked goods at the Danville Farmers' Market where she met her husband Michael Camp.
