@@ -10,6 +10,12 @@ To update the current Bakesale Betty site to something more current.
 The redesign will consist of 5-6 pages.
 Pages will consist of: index, locations, products, recipes, about
 
+The site should include links to Social Media: Twitter, Facebook, Yelp:
+The site is not very active on Twitter so I will just add yelp and facebook
+
+Facebook
+https://www.facebook.com/pages/Bakesale-Betty/108540575831119
+
 ## Use Cases:
 * The site should work on major browsers: Firefox, Internet Explorer, and Google Chrome.
 
