@@ -11,6 +11,12 @@ The redesign will consist of 5-6 pages.
 Pages will consist of: index, locations, products, recipes, about
 
 ## Use Cases:
+* The site should work on major browsers: Firefox, Internet Explorer, and Google Chrome.
+
+* The site should also look well on mobile screens.
+
+## Wireframes:
+Should have 5-6 wireframe/thumbnails of how the site should appear.
 
 ## Features:
 Description of the page breakdown:
