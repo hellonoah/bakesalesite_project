@@ -48,6 +48,28 @@ We are unable to take same day phone orders, we apologize for the inconvenience.
 ### products:
 There currently isn't any information listed on this page. Will update based on research 
 
+http://www.yelp.com/menu/bakesale-betty-oakland
+
+Banana Bread
+
+Brownies
+
+Famous Scones
+
+Ginger Cookies
+
+Lamingtons
+
+Lemon Bars
+
+Oatmeal Raisin
+
+Sticky Date Pudding
+
+Vanilla Shortcakes
+
+
+
 ### recipes:
 
 http://abc.go.com/shows/the-chew/recipes/buttermilk-fried-chicken-sandwich-bakesale-betty
